@@ -37,3 +37,6 @@ python email2phonenumber.py bruteforce -m 555XXX1234 -e target@email.com -p /tmp
 ```
 ## Authors
 Martin Vigo - @martin_vigo - [martinvigo.com](https://www.martinvigo.com)
+
+## Legal
+This script is made only for Educational purpose.The developer is not responsible if you misuse it.
